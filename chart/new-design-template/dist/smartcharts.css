@@ -335,6 +335,8 @@ html,body{-ms-touch-action:none;margin:0px}
 .smartcharts-dark .btn:hover{background:rgba(255,68,79,0.08)}
 .smartcharts-light .btn--primary{border-color:#ff444f;background:#ff444f;color:#fff}
 .smartcharts-dark .btn--primary{border-color:#ff444f;background:#ff444f;color:#fff}
+.smartcharts-light .btn--primary:hover{background:#ff444f}
+.smartcharts-dark .btn--primary:hover{background:#ff444f}
 .chart-line{position:absolute;z-index:35}
 .chart-line.horizontal{width:100%;left:0;font-size:1em}
 .chart-line.horizontal:hover{z-index:105}
