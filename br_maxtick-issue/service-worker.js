@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/br_maxtick-issue/precache-manifest.3a965766316b0d48bdb0d274d164d555.js"
+  "/br_maxtick-issue/precache-manifest.78016880c1a8d70a3ffd60a4faa19951.js"
 );
 
 workbox.core.skipWaiting();
